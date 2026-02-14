@@ -25,4 +25,4 @@ Hi! I am a third-year Computer Science / Applied Mathematics undergraduate stude
 * National Merit Scholarship Finalist ($2500 award)
 
 ## Publications
-* Andrew Zhou, Peter Eckmann, Sumanth Varambally, Michael K. Gilson, Rose Yu , “MOLLEO+: Towards Optimized Use of LLMs for Drug Discovery”, [*https://azhou2023.github.io/assets/pdf/MOLLEO+.pdf*](https://azhou2023.github.io/assets/pdf/MOLLEO+.pdf)
+* **Andrew Zhou**, Peter Eckmann, Sumanth Varambally, Michael K. Gilson, Rose Yu , “MOLLEO+: Towards Optimized Use of LLMs for Drug Discovery”, [*https://azhou2023.github.io/assets/pdf/MOLLEO+.pdf*](https://azhou2023.github.io/assets/pdf/MOLLEO+.pdf)
